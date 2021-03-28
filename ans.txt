@@ -1,0 +1,730 @@
+Match between:  Royal Challengers Bangalore  and  Sunrisers Hyderabad
+┌─────────┬───────────────────────┬──────┐
+│ (index) │         Name          │ Run  │
+├─────────┼───────────────────────┼──────┤
+│    0    │  'David Warner (c)'   │ '17' │
+│    1    │ 'Shreevats Goswami †' │ '0'  │
+│    2    │    'Manish Pandey'    │ '24' │
+│    3    │   'Kane Williamson'   │ '50' │
+│    4    │     'Priyam Garg'     │ '7'  │
+│    5    │    'Jason Holder'     │ '24' │
+└─────────┴───────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Mumbai Indians
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Rohit Sharma (c)'  │ '68' │
+│    1    │ 'Quinton de Kock †' │ '20' │
+│    2    │ 'Suryakumar Yadav'  │ '19' │
+│    3    │   'Ishan Kishan'    │ '33' │
+│    4    │  'Kieron Pollard'   │ '9'  │
+│    5    │   'Hardik Pandya'   │ '3'  │
+│    6    │   'Krunal Pandya'   │ '1'  │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Mumbai Indians  and  Delhi Capitals
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Quinton de Kock †' │ '40' │
+│    1    │ 'Rohit Sharma (c)'  │ '0'  │
+│    2    │ 'Suryakumar Yadav'  │ '51' │
+│    3    │   'Ishan Kishan'    │ '55' │
+│    4    │  'Kieron Pollard'   │ '0'  │
+│    5    │   'Krunal Pandya'   │ '13' │
+│    6    │   'Hardik Pandya'   │ '37' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Sunrisers Hyderabad
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │  'Marcus Stoinis'  │ '38' │
+│    1    │  'Shikhar Dhawan'  │ '78' │
+│    2    │ 'Shreyas Iyer (c)' │ '21' │
+│    3    │ 'Shimron Hetmyer'  │ '42' │
+│    4    │  'Rishabh Pant †'  │ '2'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Royal Challengers Bangalore  and  Sunrisers Hyderabad
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'David Warner (c)'  │ '8'  │
+│    1    │ 'Wriddhiman Saha †' │ '39' │
+│    2    │   'Manish Pandey'   │ '26' │
+│    3    │  'Kane Williamson'  │ '8'  │
+│    4    │  'Abhishek Sharma'  │ '8'  │
+│    5    │   'Jason Holder'    │ '26' │
+│    6    │    'Abdul Samad'    │ '0'  │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kings XI Punjab  and  Rajasthan Royals
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │  'Jos Buttler †'   │ '4'  │
+│    1    │ 'Steven Smith (c)' │ '50' │
+│    2    │   'Sanju Samson'   │ '85' │
+│    3    │  'Rahul Tewatia'   │ '53' │
+│    4    │  'Robin Uthappa'   │ '9'  │
+│    5    │   'Jofra Archer'   │ '13' │
+│    6    │   'Riyan Parag'    │ '0'  │
+│    7    │    'Tom Curran'    │ '4'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Chennai Super Kings  and  Mumbai Indians
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Quinton de Kock †' │ '46' │
+│    1    │   'Ishan Kishan'    │ '68' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Royal Challengers Bangalore  and  Mumbai Indians
+┌─────────┬──────────────────────┬──────┐
+│ (index) │         Name         │ Run  │
+├─────────┼──────────────────────┼──────┤
+│    0    │ 'Quinton de Kock †'  │ '18' │
+│    1    │    'Ishan Kishan'    │ '25' │
+│    2    │  'Suryakumar Yadav'  │ '79' │
+│    3    │   'Saurabh Tiwary'   │ '5'  │
+│    4    │   'Krunal Pandya'    │ '10' │
+│    5    │   'Hardik Pandya'    │ '17' │
+│    6    │ 'Kieron Pollard (c)' │ '4'  │
+└─────────┴──────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Royal Challengers Bangalore  and  Chennai Super Kings
+┌─────────┬───────────────────┬──────┐
+│ (index) │       Name        │ Run  │
+├─────────┼───────────────────┼──────┤
+│    0    │ 'Ruturaj Gaikwad' │ '65' │
+│    1    │ 'Faf du Plessis'  │ '25' │
+│    2    │  'Ambati Rayudu'  │ '39' │
+│    3    │  'MS Dhoni (c)†'  │ '19' │
+└─────────┴───────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Sunrisers Hyderabad  and  Rajasthan Royals
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │    'Ben Stokes'    │ '5'  │
+│    1    │  'Jos Buttler †'   │ '16' │
+│    2    │ 'Steven Smith (c)' │ '5'  │
+│    3    │   'Sanju Samson'   │ '26' │
+│    4    │  'Robin Uthappa'   │ '18' │
+│    5    │   'Riyan Parag'    │ '42' │
+│    6    │  'Rahul Tewatia'   │ '45' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Rajasthan Royals  and  Sunrisers Hyderabad
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │ 'David Warner (c)' │ '4'  │
+│    1    │ 'Jonny Bairstow †' │ '10' │
+│    2    │  'Manish Pandey'   │ '83' │
+│    3    │  'Vijay Shankar'   │ '52' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kings XI Punjab  and  Royal Challengers Bangalore
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Devdutt Padikkal'  │ '1'  │
+│    1    │    'Aaron Finch'    │ '20' │
+│    2    │  'Josh Philippe †'  │ '0'  │
+│    3    │  'Virat Kohli (c)'  │ '1'  │
+│    4    │  'AB de Villiers'   │ '28' │
+│    5    │ 'Washington Sundar' │ '30' │
+│    6    │    'Shivam Dube'    │ '12' │
+│    7    │    'Umesh Yadav'    │ '0'  │
+│    8    │   'Navdeep Saini'   │ '6'  │
+│    9    │    'Dale Steyn'     │ '1'  │
+│   10    │ 'Yuzvendra Chahal'  │ '1'  │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Royal Challengers Bangalore  and  Delhi Capitals
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │   'Prithvi Shaw'   │ '9'  │
+│    1    │  'Shikhar Dhawan'  │ '54' │
+│    2    │  'Ajinkya Rahane'  │ '60' │
+│    3    │ 'Shreyas Iyer (c)' │ '7'  │
+│    4    │  'Rishabh Pant †'  │ '8'  │
+│    5    │  'Marcus Stoinis'  │ '10' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Chennai Super Kings  and  Rajasthan Royals
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │    'Ben Stokes'    │ '19' │
+│    1    │  'Robin Uthappa'   │ '4'  │
+│    2    │  'Sanju Samson †'  │ '0'  │
+│    3    │ 'Steven Smith (c)' │ '26' │
+│    4    │   'Jos Buttler'    │ '70' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Mumbai Indians
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Rohit Sharma (c)'  │ '35' │
+│    1    │ 'Quinton de Kock †' │ '78' │
+│    2    │ 'Suryakumar Yadav'  │ '10' │
+│    3    │   'Hardik Pandya'   │ '21' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Chennai Super Kings
+┌─────────┬───────────────────────┬──────┐
+│ (index) │         Name          │ Run  │
+├─────────┼───────────────────────┼──────┤
+│    0    │   'Rahul Tripathi'    │ '81' │
+│    1    │    'Shubman Gill'     │ '11' │
+│    2    │     'Nitish Rana'     │ '9'  │
+│    3    │    'Sunil Narine'     │ '17' │
+│    4    │     'Eoin Morgan'     │ '7'  │
+│    5    │    'Andre Russell'    │ '2'  │
+│    6    │ 'Dinesh Karthik (c)†' │ '12' │
+│    7    │     'Pat Cummins'     │ '17' │
+│    8    │  'Kamlesh Nagarkoti'  │ '0'  │
+│    9    │     'Shivam Mavi'     │ '0'  │
+│   10    │ 'Varun Chakravarthy'  │ '1'  │
+└─────────┴───────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Mumbai Indians  and  Sunrisers Hyderabad
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Rohit Sharma (c)'  │ '6'  │
+│    1    │ 'Quinton de Kock †' │ '67' │
+│    2    │ 'Suryakumar Yadav'  │ '27' │
+│    3    │   'Ishan Kishan'    │ '31' │
+│    4    │   'Hardik Pandya'   │ '28' │
+│    5    │  'Kieron Pollard'   │ '25' │
+│    6    │   'Krunal Pandya'   │ '20' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Royal Challengers Bangalore  and  Kings XI Punjab
+┌─────────┬───────────────────┬──────┐
+│ (index) │       Name        │ Run  │
+├─────────┼───────────────────┼──────┤
+│    0    │  'KL Rahul (c)†'  │ '61' │
+│    1    │ 'Mayank Agarwal'  │ '45' │
+│    2    │   'Chris Gayle'   │ '53' │
+│    3    │ 'Nicholas Pooran' │ '6'  │
+└─────────┴───────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kings XI Punjab  and  Chennai Super Kings
+┌─────────┬───────────────────┬──────┐
+│ (index) │       Name        │ Run  │
+├─────────┼───────────────────┼──────┤
+│    0    │ 'Ruturaj Gaikwad' │ '62' │
+│    1    │ 'Faf du Plessis'  │ '48' │
+│    2    │  'Ambati Rayudu'  │ '30' │
+└─────────┴───────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Sunrisers Hyderabad  and  Delhi Capitals
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'David Warner (c)'  │ '66' │
+│    1    │ 'Wriddhiman Saha †' │ '87' │
+│    2    │   'Manish Pandey'   │ '44' │
+│    3    │  'Kane Williamson'  │ '11' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Kings XI Punjab
+┌─────────┬───────────────────────┬──────┐
+│ (index) │         Name          │ Run  │
+├─────────┼───────────────────────┼──────┤
+│    0    │   'Rahul Tripathi'    │ '4'  │
+│    1    │    'Shubman Gill'     │ '57' │
+│    2    │     'Nitish Rana'     │ '2'  │
+│    3    │     'Eoin Morgan'     │ '24' │
+│    4    │ 'Dinesh Karthik (c)†' │ '58' │
+│    5    │    'Andre Russell'    │ '5'  │
+│    6    │     'Pat Cummins'     │ '5'  │
+└─────────┴───────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Mumbai Indians
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │   'Ishan Kishan'    │ '72' │
+│    1    │ 'Quinton de Kock †' │ '26' │
+│    2    │ 'Suryakumar Yadav'  │ '12' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Delhi Capitals
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │   'Shubman Gill'   │ '9'  │
+│    1    │   'Nitish Rana'    │ '81' │
+│    2    │  'Rahul Tripathi'  │ '13' │
+│    3    │ 'Dinesh Karthik †' │ '3'  │
+│    4    │   'Sunil Narine'   │ '64' │
+│    5    │ 'Eoin Morgan (c)'  │ '17' │
+│    6    │   'Pat Cummins'    │ '0'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Mumbai Indians  and  Sunrisers Hyderabad
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'David Warner (c)'  │ '85' │
+│    1    │ 'Wriddhiman Saha †' │ '58' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Rajasthan Royals
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │   'Shubman Gill'    │ '36' │
+│    1    │    'Nitish Rana'    │ '0'  │
+│    2    │  'Rahul Tripathi'   │ '39' │
+│    3    │   'Sunil Narine'    │ '0'  │
+│    4    │  'Eoin Morgan (c)'  │ '68' │
+│    5    │ 'Dinesh Karthik †'  │ '0'  │
+│    6    │   'Andre Russell'   │ '25' │
+│    7    │    'Pat Cummins'    │ '15' │
+│    8    │ 'Kamlesh Nagarkoti' │ '1'  │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kings XI Punjab  and  Rajasthan Royals
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │  'Robin Uthappa'   │ '30' │
+│    1    │    'Ben Stokes'    │ '50' │
+│    2    │  'Sanju Samson †'  │ '48' │
+│    3    │ 'Steven Smith (c)' │ '31' │
+│    4    │   'Jos Buttler'    │ '22' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Sunrisers Hyderabad  and  Kolkata Knight Riders
+┌─────────┬───────────────────────┬──────┐
+│ (index) │         Name          │ Run  │
+├─────────┼───────────────────────┼──────┤
+│    0    │    'Shubman Gill'     │ '70' │
+│    1    │    'Sunil Narine'     │ '0'  │
+│    2    │     'Nitish Rana'     │ '26' │
+│    3    │ 'Dinesh Karthik (c)†' │ '0'  │
+│    4    │     'Eoin Morgan'     │ '42' │
+└─────────┴───────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kings XI Punjab  and  Sunrisers Hyderabad
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │ 'David Warner (c)' │ '35' │
+│    1    │ 'Jonny Bairstow †' │ '19' │
+│    2    │  'Manish Pandey'   │ '15' │
+│    3    │   'Abdul Samad'    │ '7'  │
+│    4    │  'Vijay Shankar'   │ '26' │
+│    5    │   'Jason Holder'   │ '5'  │
+│    6    │   'Priyam Garg'    │ '3'  │
+│    7    │   'Rashid Khan'    │ '0'  │
+│    8    │  'Sandeep Sharma'  │ '0'  │
+│    9    │   'T Natarajan'    │ '0'  │
+│   10    │  'Khaleel Ahmed'   │ '0'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kings XI Punjab  and  Chennai Super Kings
+┌─────────┬──────────────────┬──────┐
+│ (index) │       Name       │ Run  │
+├─────────┼──────────────────┼──────┤
+│    0    │  'Shane Watson'  │ '83' │
+│    1    │ 'Faf du Plessis' │ '87' │
+└─────────┴──────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Chennai Super Kings
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │   'Prithvi Shaw'   │ '64' │
+│    1    │  'Shikhar Dhawan'  │ '35' │
+│    2    │  'Rishabh Pant †'  │ '37' │
+│    3    │ 'Shreyas Iyer (c)' │ '26' │
+│    4    │  'Marcus Stoinis'  │ '5'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Mumbai Indians  and  Rajasthan Royals
+┌─────────┬────────────────────┬───────┐
+│ (index) │        Name        │  Run  │
+├─────────┼────────────────────┼───────┤
+│    0    │  'Robin Uthappa'   │ '13'  │
+│    1    │    'Ben Stokes'    │ '107' │
+│    2    │ 'Steven Smith (c)' │ '11'  │
+│    3    │  'Sanju Samson †'  │ '54'  │
+└─────────┴────────────────────┴───────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Kings XI Punjab
+┌─────────┬───────────────────┬──────┐
+│ (index) │       Name        │ Run  │
+├─────────┼───────────────────┼──────┤
+│    0    │  'KL Rahul (c)†'  │ '28' │
+│    1    │  'Mandeep Singh'  │ '66' │
+│    2    │   'Chris Gayle'   │ '51' │
+│    3    │ 'Nicholas Pooran' │ '2'  │
+└─────────┴───────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Kolkata Knight Riders
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │   'Prithvi Shaw'   │ '66' │
+│    1    │  'Shikhar Dhawan'  │ '26' │
+│    2    │ 'Shreyas Iyer (c)' │ '88' │
+│    3    │  'Rishabh Pant †'  │ '38' │
+│    4    │  'Marcus Stoinis'  │ '1'  │
+│    5    │ 'Shimron Hetmyer'  │ '7'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Mumbai Indians  and  Chennai Super Kings
+┌─────────┬───────────────────┬──────┐
+│ (index) │       Name        │ Run  │
+├─────────┼───────────────────┼──────┤
+│    0    │  'Murali Vijay'   │ '1'  │
+│    1    │  'Shane Watson'   │ '4'  │
+│    2    │ 'Faf du Plessis'  │ '58' │
+│    3    │  'Ambati Rayudu'  │ '71' │
+│    4    │ 'Ravindra Jadeja' │ '10' │
+│    5    │   'Sam Curran'    │ '18' │
+│    6    │  'MS Dhoni (c)†'  │ '0'  │
+└─────────┴───────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Royal Challengers Bangalore
+┌─────────┬────────────────────────┬──────┐
+│ (index) │          Name          │ Run  │
+├─────────┼────────────────────────┼──────┤
+│    0    │   'Devdutt Padikkal'   │ '25' │
+│    1    │     'Aaron Finch'      │ '16' │
+│    2    │ 'Gurkeerat Singh Mann' │ '21' │
+│    3    │   'Virat Kohli (c)'    │ '18' │
+└─────────┴────────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Sunrisers Hyderabad
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │   'Shubman Gill'   │ '36' │
+│    1    │  'Rahul Tripathi'  │ '23' │
+│    2    │   'Nitish Rana'    │ '29' │
+│    3    │  'Andre Russell'   │ '9'  │
+│    4    │ 'Eoin Morgan (c)'  │ '34' │
+│    5    │ 'Dinesh Karthik †' │ '29' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Chennai Super Kings
+┌─────────┬───────────────────┬──────┐
+│ (index) │       Name        │ Run  │
+├─────────┼───────────────────┼──────┤
+│    0    │  'Shane Watson'   │ '14' │
+│    1    │ 'Ruturaj Gaikwad' │ '72' │
+│    2    │  'Ambati Rayudu'  │ '38' │
+│    3    │  'MS Dhoni (c)†'  │ '1'  │
+│    4    │   'Sam Curran'    │ '13' │
+│    5    │ 'Ravindra Jadeja' │ '31' │
+└─────────┴───────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Mumbai Indians  and  Rajasthan Royals
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Quinton de Kock †' │ '23' │
+│    1    │ 'Rohit Sharma (c)'  │ '35' │
+│    2    │ 'Suryakumar Yadav'  │ '79' │
+│    3    │   'Ishan Kishan'    │ '0'  │
+│    4    │   'Krunal Pandya'   │ '12' │
+│    5    │   'Hardik Pandya'   │ '30' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Royal Challengers Bangalore  and  Mumbai Indians
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │ 'Devdutt Padikkal' │ '54' │
+│    1    │   'Aaron Finch'    │ '52' │
+│    2    │ 'Virat Kohli (c)'  │ '3'  │
+│    3    │ 'AB de Villiers †' │ '55' │
+│    4    │   'Shivam Dube'    │ '27' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Mumbai Indians
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Rohit Sharma (c)'  │ '5'  │
+│    1    │ 'Quinton de Kock †' │ '53' │
+│    2    │ 'Suryakumar Yadav'  │ '53' │
+│    3    │   'Ishan Kishan'    │ '28' │
+│    4    │   'Hardik Pandya'   │ '0'  │
+│    5    │  'Kieron Pollard'   │ '11' │
+│    6    │   'Krunal Pandya'   │ '12' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Sunrisers Hyderabad  and  Chennai Super Kings
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │ 'David Warner (c)' │ '28' │
+│    1    │ 'Jonny Bairstow †' │ '0'  │
+│    2    │  'Manish Pandey'   │ '29' │
+│    3    │ 'Kane Williamson'  │ '9'  │
+│    4    │   'Priyam Garg'    │ '51' │
+│    5    │ 'Abhishek Sharma'  │ '31' │
+│    6    │   'Abdul Samad'    │ '8'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Rajasthan Royals  and  Royal Challengers Bangalore
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │ 'Devdutt Padikkal' │ '63' │
+│    1    │   'Aaron Finch'    │ '8'  │
+│    2    │ 'Virat Kohli (c)'  │ '72' │
+│    3    │ 'AB de Villiers †' │ '12' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Mumbai Indians  and  Kings XI Punjab
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Quinton de Kock †' │ '0'  │
+│    1    │ 'Rohit Sharma (c)'  │ '70' │
+│    2    │ 'Suryakumar Yadav'  │ '10' │
+│    3    │   'Ishan Kishan'    │ '28' │
+│    4    │  'Kieron Pollard'   │ '47' │
+│    5    │   'Hardik Pandya'   │ '30' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Mumbai Indians  and  Kolkata Knight Riders
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Quinton de Kock †' │ '1'  │
+│    1    │ 'Rohit Sharma (c)'  │ '80' │
+│    2    │ 'Suryakumar Yadav'  │ '47' │
+│    3    │  'Saurabh Tiwary'   │ '21' │
+│    4    │   'Hardik Pandya'   │ '18' │
+│    5    │  'Kieron Pollard'   │ '13' │
+│    6    │   'Krunal Pandya'   │ '1'  │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Rajasthan Royals  and  Royal Challengers Bangalore
+┌─────────┬────────────────────────┬──────┐
+│ (index) │          Name          │ Run  │
+├─────────┼────────────────────────┼──────┤
+│    0    │   'Devdutt Padikkal'   │ '35' │
+│    1    │     'Aaron Finch'      │ '14' │
+│    2    │   'Virat Kohli (c)'    │ '43' │
+│    3    │   'AB de Villiers †'   │ '55' │
+│    4    │ 'Gurkeerat Singh Mann' │ '19' │
+└─────────┴────────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Chennai Super Kings  and  Delhi Capitals
+┌─────────┬────────────────────┬───────┐
+│ (index) │        Name        │  Run  │
+├─────────┼────────────────────┼───────┤
+│    0    │   'Prithvi Shaw'   │  '0'  │
+│    1    │  'Shikhar Dhawan'  │ '101' │
+│    2    │  'Ajinkya Rahane'  │  '8'  │
+│    3    │ 'Shreyas Iyer (c)' │ '23'  │
+│    4    │  'Marcus Stoinis'  │ '24'  │
+│    5    │   'Alex Carey †'   │  '4'  │
+│    6    │    'Axar Patel'    │ '21'  │
+└─────────┴────────────────────┴───────┘
+````````````````````````````````````````
+Match between:  Rajasthan Royals  and  Chennai Super Kings
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │ 'Yashasvi Jaiswal' │ '6'  │
+│    1    │ 'Steven Smith (c)' │ '69' │
+│    2    │  'Sanju Samson †'  │ '74' │
+│    3    │   'David Miller'   │ '0'  │
+│    4    │  'Robin Uthappa'   │ '5'  │
+│    5    │  'Rahul Tewatia'   │ '10' │
+│    6    │   'Riyan Parag'    │ '6'  │
+│    7    │    'Tom Curran'    │ '10' │
+│    8    │   'Jofra Archer'   │ '27' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Royal Challengers Bangalore
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │   'Prithvi Shaw'   │ '42' │
+│    1    │  'Shikhar Dhawan'  │ '32' │
+│    2    │ 'Shreyas Iyer (c)' │ '11' │
+│    3    │  'Rishabh Pant †'  │ '37' │
+│    4    │  'Marcus Stoinis'  │ '53' │
+│    5    │ 'Shimron Hetmyer'  │ '11' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Sunrisers Hyderabad  and  Delhi Capitals
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │ 'David Warner (c)' │ '45' │
+│    1    │ 'Jonny Bairstow †' │ '53' │
+│    2    │  'Manish Pandey'   │ '3'  │
+│    3    │ 'Kane Williamson'  │ '41' │
+│    4    │   'Abdul Samad'    │ '12' │
+│    5    │ 'Abhishek Sharma'  │ '1'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Royal Challengers Bangalore  and  Kolkata Knight Riders
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │   'Aaron Finch'    │ '47' │
+│    1    │ 'Devdutt Padikkal' │ '32' │
+│    2    │ 'Virat Kohli (c)'  │ '33' │
+│    3    │ 'AB de Villiers †' │ '73' │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Kings XI Punjab
+┌─────────┬───────────────────┬──────┐
+│ (index) │       Name        │ Run  │
+├─────────┼───────────────────┼──────┤
+│    0    │  'KL Rahul (c)†'  │ '15' │
+│    1    │ 'Mayank Agarwal'  │ '5'  │
+│    2    │   'Chris Gayle'   │ '29' │
+│    3    │ 'Nicholas Pooran' │ '53' │
+│    4    │  'Glenn Maxwell'  │ '32' │
+│    5    │  'Deepak Hooda'   │ '15' │
+│    6    │  'James Neesham'  │ '10' │
+└─────────┴───────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Rajasthan Royals
+┌─────────┬───────────────────────┬──────┐
+│ (index) │         Name          │ Run  │
+├─────────┼───────────────────────┼──────┤
+│    0    │    'Prithvi Shaw'     │ '19' │
+│    1    │   'Shikhar Dhawan'    │ '5'  │
+│    2    │  'Shreyas Iyer (c)'   │ '22' │
+│    3    │   'Rishabh Pant †'    │ '5'  │
+│    4    │   'Marcus Stoinis'    │ '39' │
+│    5    │   'Shimron Hetmyer'   │ '45' │
+│    6    │    'Harshal Patel'    │ '16' │
+│    7    │     'Axar Patel'      │ '17' │
+│    8    │    'Kagiso Rabada'    │ '2'  │
+│    9    │ 'Ravichandran Ashwin' │ '0'  │
+└─────────┴───────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Kings XI Punjab
+┌─────────┬───────────────────────┬──────┐
+│ (index) │         Name          │ Run  │
+├─────────┼───────────────────────┼──────┤
+│    0    │    'Prithvi Shaw'     │ '5'  │
+│    1    │   'Shikhar Dhawan'    │ '0'  │
+│    2    │   'Shimron Hetmyer'   │ '7'  │
+│    3    │  'Shreyas Iyer (c)'   │ '39' │
+│    4    │   'Rishabh Pant †'    │ '31' │
+│    5    │   'Marcus Stoinis'    │ '53' │
+│    6    │     'Axar Patel'      │ '6'  │
+│    7    │ 'Ravichandran Ashwin' │ '4'  │
+│    8    │    'Kagiso Rabada'    │ '0'  │
+│    9    │    'Anrich Nortje'    │ '3'  │
+└─────────┴───────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Royal Challengers Bangalore  and  Chennai Super Kings
+┌─────────┬─────────────────────┬──────┐
+│ (index) │        Name         │ Run  │
+├─────────┼─────────────────────┼──────┤
+│    0    │ 'Devdutt Padikkal'  │ '33' │
+│    1    │    'Aaron Finch'    │ '2'  │
+│    2    │  'Virat Kohli (c)'  │ '90' │
+│    3    │ 'AB de Villiers †'  │ '0'  │
+│    4    │ 'Washington Sundar' │ '10' │
+│    5    │    'Shivam Dube'    │ '22' │
+└─────────┴─────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Chennai Super Kings  and  Sunrisers Hyderabad
+┌─────────┬───────────────────┬──────┐
+│ (index) │       Name        │ Run  │
+├─────────┼───────────────────┼──────┤
+│    0    │   'Sam Curran'    │ '31' │
+│    1    │ 'Faf du Plessis'  │ '0'  │
+│    2    │  'Shane Watson'   │ '42' │
+│    3    │  'Ambati Rayudu'  │ '41' │
+│    4    │  'MS Dhoni (c)†'  │ '21' │
+│    5    │ 'Ravindra Jadeja' │ '25' │
+│    6    │  'Dwayne Bravo'   │ '0'  │
+│    7    │  'Deepak Chahar'  │ '2'  │
+└─────────┴───────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Delhi Capitals  and  Rajasthan Royals
+┌─────────┬───────────────────────┬──────┐
+│ (index) │         Name          │ Run  │
+├─────────┼───────────────────────┼──────┤
+│    0    │    'Prithvi Shaw'     │ '0'  │
+│    1    │   'Shikhar Dhawan'    │ '57' │
+│    2    │   'Ajinkya Rahane'    │ '2'  │
+│    3    │  'Shreyas Iyer (c)'   │ '53' │
+│    4    │   'Marcus Stoinis'    │ '18' │
+│    5    │    'Alex Carey †'     │ '14' │
+│    6    │     'Axar Patel'      │ '7'  │
+│    7    │ 'Ravichandran Ashwin' │ '0'  │
+└─────────┴───────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Sunrisers Hyderabad  and  Kings XI Punjab
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │ 'David Warner (c)' │ '52' │
+│    1    │ 'Jonny Bairstow †' │ '97' │
+│    2    │   'Abdul Samad'    │ '8'  │
+│    3    │  'Manish Pandey'   │ '1'  │
+│    4    │ 'Kane Williamson'  │ '20' │
+│    5    │   'Priyam Garg'    │ '0'  │
+│    6    │ 'Abhishek Sharma'  │ '12' │
+│    7    │   'Rashid Khan'    │ '0'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Mumbai Indians  and  Kings XI Punjab
+┌─────────┬───────────────────────┬──────┐
+│ (index) │         Name          │ Run  │
+├─────────┼───────────────────────┼──────┤
+│    0    │  'Rohit Sharma (c)'   │ '9'  │
+│    1    │  'Quinton de Kock †'  │ '53' │
+│    2    │  'Suryakumar Yadav'   │ '0'  │
+│    3    │    'Ishan Kishan'     │ '7'  │
+│    4    │    'Krunal Pandya'    │ '34' │
+│    5    │    'Hardik Pandya'    │ '8'  │
+│    6    │   'Kieron Pollard'    │ '34' │
+│    7    │ 'Nathan Coulter-Nile' │ '24' │
+└─────────┴───────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Royal Challengers Bangalore  and  Sunrisers Hyderabad
+┌─────────┬────────────────────┬──────┐
+│ (index) │        Name        │ Run  │
+├─────────┼────────────────────┼──────┤
+│    0    │ 'Devdutt Padikkal' │ '56' │
+│    1    │   'Aaron Finch'    │ '29' │
+│    2    │ 'Virat Kohli (c)'  │ '14' │
+│    3    │  'AB de Villiers'  │ '51' │
+│    4    │   'Shivam Dube'    │ '7'  │
+│    5    │ 'Josh Philippe †'  │ '1'  │
+└─────────┴────────────────────┴──────┘
+````````````````````````````````````````
+Match between:  Kolkata Knight Riders  and  Rajasthan Royals
+┌─────────┬───────────────────────┬──────┐
+│ (index) │         Name          │ Run  │
+├─────────┼───────────────────────┼──────┤
+│    0    │    'Shubman Gill'     │ '47' │
+│    1    │    'Sunil Narine'     │ '15' │
+│    2    │     'Nitish Rana'     │ '22' │
+│    3    │    'Andre Russell'    │ '24' │
+│    4    │ 'Dinesh Karthik (c)†' │ '1'  │
+│    5    │     'Eoin Morgan'     │ '34' │
+│    6    │     'Pat Cummins'     │ '12' │
+│    7    │  'Kamlesh Nagarkoti'  │ '8'  │
+└─────────┴───────────────────────┴──────┘
+````````````````````````````````````````
